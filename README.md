@@ -1,1 +1,2 @@
-# telegram-economy-bot
+aiogram==3.22.0
+python-dotenv
